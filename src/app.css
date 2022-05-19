@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+.App{
+  display: flex;
+  background-color: red;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+
+}
